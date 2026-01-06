@@ -1,6 +1,12 @@
 # Write-Ups
 Write ups and walkthroughs for CTF and various OSINT Challenges
 
+**2026**
+Date | Link
+-------|------------
+JAN 2026 | 
+
+
 **2025**
 Date | Link
 -------|------------
